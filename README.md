@@ -5,11 +5,8 @@
 - ORM Sequelize
 
 
-#This api has support :
+#This api has provie to :
 
 - Infinite scroll
 - Paging
 - Midleware JWT
-
-
-This is for training angular, JQuery. XD
